@@ -52,7 +52,7 @@ namespace Listary.FileAppPlugin.OneCommander
             }
             catch (Exception e)
             {
-                _host.Logger.LogError($"Failed to get current folder: {e}");
+                _host.Logger.LogError($"Failed to set current folder: {e}");
                 return false;
             }
         }
