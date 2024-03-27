@@ -1,0 +1,16 @@
+﻿{
+  "ManifestVersion": 1,
+
+  "Id": "OneCommander",
+  "PluginType": "FileAppPlugin",
+  "PluginVersion": "0.1.0",
+  "DisplayName": "OneCommander",
+  "Authors": [ "Listary" ],
+  "Description": "Listary file application plugin for OneCommander.",
+  "Homepage": "https://github.com/listary/Listary.FileAppPlugin.OneCommander",
+  "Icon": "Icon.png",
+
+  "Api": "NetFramework",
+  "ApiVersion": 1,
+  "Entry": "Listary.FileAppPlugin.OneCommander.dll"
+}
